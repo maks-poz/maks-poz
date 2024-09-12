@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-A former Team Leader of an SSL Customer Support Team. I loved securing websites and helping the world fight untrusted pages. What I like even more is developing software and coming up with new solutions. I pursue my career in the area of IT and Computer Science. I feel excited to continue learning and growing in this dynamic field.
+A former Team Leader of a Technical Support Team. I loved securing websites and helping the world fight untrusted pages. What I like even more is developing software and coming up with new solutions. I pursue my career in the area of IT and Computer Science. I feel excited to continue learning and growing in this dynamic field.
 
 *   🌍  I'm based in Houston, TX
 *   ✉️  You can contact me at [pozemi1148@gmail.com](mailto:pozemi1148@gmail.com)
